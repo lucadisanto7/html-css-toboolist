@@ -47,6 +47,7 @@ h1{
     background-color: white;
     margin-top: 3px;
     padding: 30px;
+    margin-bottom: 30px;
 }
 ul{
     list-style-type: none;
@@ -86,4 +87,29 @@ margin-bottom: 25px;
     font-size: 12px;
     padding: 3px 4.5px;
     margin-right: 10px;
+}
+.label{
+    border-radius: 100px;
+    padding: 8px 15px 8px 15px;
+    font-size: 12px;
+    color: white;
+    font-weight: 700;   
+}
+.blue{
+    background-color: rgb(56, 164, 236);
+}
+.purple{
+    background-color: rgb(153, 87, 214);
+}
+.green{
+    background-color: rgb(73, 201, 137);
+}
+.orange{
+    background-color: rgb(252, 196, 92);
+}
+.lightgreen{
+    background-color: rgb(115, 223, 72);
+}
+.pink{
+    background-color: rgb(231, 81, 106);
 }
